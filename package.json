@@ -1,0 +1,30 @@
+{
+  "name": "collect_night",
+  "version": "1.0.0",
+  "description": "```bash\r git clone https://github.com/longdevbf/Collect_Night\r npm install axios @meshsdk/core @emurgo/cardano-serialization-lib-nodejs cbor fs path\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longdevbf/Collect_Night.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/longdevbf/Collect_Night/issues"
+  },
+  "homepage": "https://github.com/longdevbf/Collect_Night#readme",
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-nodejs": "^15.0.3",
+    "@meshsdk/core": "^1.9.0-beta.90",
+    "axios": "^1.13.2",
+    "blakejs": "^1.2.1",
+    "cbor": "^10.0.11",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
