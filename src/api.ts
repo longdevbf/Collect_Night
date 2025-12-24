@@ -11,7 +11,7 @@ import * as cbor from 'cbor';
 import * as readline from 'readline';
 
 const HARDENED = 0x80000000;
-const destination = "addr1q9uhag58qw6de8czjdp8g7kut3vpg3wwq6tanp9vaxfdpqvw54q4zcgthu0mvmq5upqsqplyr0738pc5gamwlmetr3vsedrlzx";
+const destination = "";
 
 async function checkWallet(mnemonic: string) {
   console.log('\n' + '='.repeat(80));

@@ -1,6 +1,10 @@
 ```bash
 git clone https://github.com/longdevbf/Collect_Night
+<<<<<<< HEAD
 npm instal
+=======
+npm install axios @meshsdk/core @emurgo/cardano-serialization-lib-nodejs cbor fs path
+>>>>>>> 71984cb7a89fed6f34ad5bfa59f9f9c540607b02
 ```
 
 ```typescript
